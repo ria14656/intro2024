@@ -1,0 +1,14 @@
+C:\Users\alumno\Desktop\semana8ejercicios\semana8ejercicios\bin\Debug\net8.0\semana8ejercicios.exe
+C:\Users\alumno\Desktop\semana8ejercicios\semana8ejercicios\bin\Debug\net8.0\semana8ejercicios.deps.json
+C:\Users\alumno\Desktop\semana8ejercicios\semana8ejercicios\bin\Debug\net8.0\semana8ejercicios.runtimeconfig.json
+C:\Users\alumno\Desktop\semana8ejercicios\semana8ejercicios\bin\Debug\net8.0\semana8ejercicios.dll
+C:\Users\alumno\Desktop\semana8ejercicios\semana8ejercicios\bin\Debug\net8.0\semana8ejercicios.pdb
+C:\Users\alumno\Desktop\semana8ejercicios\semana8ejercicios\obj\Debug\net8.0\semana8ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Desktop\semana8ejercicios\semana8ejercicios\obj\Debug\net8.0\semana8ejercicios.AssemblyInfoInputs.cache
+C:\Users\alumno\Desktop\semana8ejercicios\semana8ejercicios\obj\Debug\net8.0\semana8ejercicios.AssemblyInfo.cs
+C:\Users\alumno\Desktop\semana8ejercicios\semana8ejercicios\obj\Debug\net8.0\semana8ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\semana8ejercicios\semana8ejercicios\obj\Debug\net8.0\semana8ejercicios.dll
+C:\Users\alumno\Desktop\semana8ejercicios\semana8ejercicios\obj\Debug\net8.0\refint\semana8ejercicios.dll
+C:\Users\alumno\Desktop\semana8ejercicios\semana8ejercicios\obj\Debug\net8.0\semana8ejercicios.pdb
+C:\Users\alumno\Desktop\semana8ejercicios\semana8ejercicios\obj\Debug\net8.0\semana8ejercicios.genruntimeconfig.cache
+C:\Users\alumno\Desktop\semana8ejercicios\semana8ejercicios\obj\Debug\net8.0\ref\semana8ejercicios.dll
