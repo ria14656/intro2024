@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Ejemplo de JavaScript</title>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+
+    <div id="persona">
+        </div>
+
+    <script>
+        let nombre = "Juan";
+        let edad = 10;
+        let altura = 1.92;
+        let casado = false;
+
+        let persona = document.getElementById("persona");
+        persona.innerHTML = `
+            <h2>Persona</h2>
+            <p>Nombre: ${nombre}</p>
+            <p>Edad: ${edad}</p>
+            <p>Altura: ${altura}</p>
+            <p>Casado: ${casado}</p>
+        `;
+    </script>
+
+</body>
+
+</html>

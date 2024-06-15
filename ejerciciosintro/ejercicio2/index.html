@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo de if y else en JavaScript</title>
+</head>
+
+<body>
+
+    <h1>Verificar si un número es par o impar</h1>
+    <input type="number" id="numero" placeholder="Ingresa un número">
+
+    <button onclick="verificarNumero()">Verificar</button>
+    <p id="resultado"></p>
+
+    <script>
+        function verificarNumero() {
+            // Obtener el valor del input
+            const numero = document.getElementById('numero').value;
+
+            // Convertir el valor a un número
+            const numeroConvertido = Number(numero);
+
+            // Obtener el elemento donde se mostrará el resultado
+            const resultado = document.getElementById('resultado');
+
+            // Verificar si el número es par o impar
+            if (numeroConvertido % 2 === 0) {
+                resultado.textContent = 'El número $ {numeroConvertido} es par.';
+            } else {
+                resultado.textContent = 'El número ${numeroConvertido} es impar.';
+            }
+        }
+    </script>
+
+</body>
+
+</html>

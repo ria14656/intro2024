@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Ejemplo de JavaScript</title>
+    <meta charset="UTF-8">
+</head>
+
+<body>
+
+    <script>
+        // Definir una variable que lleve un control
+        let x;
+
+        // Definir un valor inicial
+        x = 1;
+
+        // Mientras la variable tenga un valor menor o igual a 100
+        while (x <= 100) {
+            // Si el valor de x es par
+            if (x % 2 === 0) {
+                // Escribir en el documento que x es par
+                document.write('${x} es par');
+            } else {
+                // Escribir en el documento que x es impar
+                document.write('${x} es impar');
+            }
+
+            // Agregar un salto de línea
+            document.write('<br>');
+
+            // Incrementar el valor de x en 1
+            x = x + 1;
+        }
+    </script>
+
+</body>
+
+</html>
